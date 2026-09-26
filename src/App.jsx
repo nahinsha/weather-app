@@ -1,4 +1,4 @@
-import SearchBar from "./components/SearchBar";
+import SearchBar from "./components/Searchbar";
 import WeatherCard from "./components/WeatherCard";
 import { useState } from "react";
 import { useWeather } from "./hooks/useWeather";
