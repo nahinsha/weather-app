@@ -4,7 +4,7 @@
 
 
 import { useQuery } from '@tanstack/react-query'
-import { getWeather } from '../api/weatherApi'
+import { getWeather } from '../API/weatherApi'
 
 export function useWeather(city){
     
